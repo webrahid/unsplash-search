@@ -16,6 +16,9 @@ import { UnsplashSearchComponent } from './unsplash-search.component';
   ],
   imports: [
     CommonModule
+  ],
+  exports: [
+    UnsplashSearchComponent
   ]
 })
 export class UnsplashSearchModule { }
