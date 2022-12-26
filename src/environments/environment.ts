@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  unsplsh_key:"5xg7QHP2Ypzh_DkcVvNtnAKx2aR3uVH0UEMQ2MKE1y0",
+  api_url:"https://api.unsplash.com/"
 };
 
 /*
